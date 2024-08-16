@@ -1,6 +1,6 @@
 ## Alerta - Jogo Educativo de Cibersegurança
 
-**Alerta** é um jogo educativo desenvolvido em Unity que ensina os jogadores a identificar e-mails de phishing. A versão, que se encontra nesse repositorio, se trata de um prototipo usado na 2 iteração na pesquisa do artigo: Avaliação da eficiência de jogo educativo para o ensino do comportamento de distinguir e-mails legítimos de tentativas de phishing
+**Alerta** é um jogo educativo desenvolvido em Unity que ensina os jogadores a diferenciar e-mails legítimos de tentativas de phishing. A versão, que se encontra nesse repositório, se trata de um protótipo em sua 2ª iteração dentro da metodologia de design iterativo. Deve ser entendido como um jogo em desenvolvimento, tanto do ponto de vista de sua gameplay, quanto do desenvolvimento do software. Esta versão do jogo e suas primeiras evidências favoráveis de eficiência foram divulgadas no artigo: Avaliação da eficiência de jogo educativo para o ensino do comportamento de distinguir e-mails legítimos de tentativas de phishing,
 
 ## Como Executar
 
