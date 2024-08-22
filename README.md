@@ -26,6 +26,9 @@ Siga os passos abaixo para baixar e executar o jogo em seu PC:
 
 O projeto foi desenvolvido com **Unity 3D** e scripts em **C#**. A escolha do Unity foi baseada na sua flexibilidade e recursos robustos, que permitiram a criação de um ambiente interativo e educativo.
 
+## Gameplay
+
+Vídeo com a gameplay completa do jogo - [Gameplay](https://youtu.be/a8iZoWfpe3I)
 
 ## Licença
 
