@@ -30,6 +30,12 @@ O projeto foi desenvolvido com **Unity 3D** e scripts em **C#**. A escolha do Un
 
 Vídeo com a gameplay completa do jogo - [Gameplay](https://youtu.be/a8iZoWfpe3I)
 
+## Repositório da Versão Código-Fonte
+
+Você pode acessar o repositório contendo a versão com os códigos-fonte do jogo para PC no seguinte link:
+
+[Alerta - Código-Fonte](https://github.com/JassonJr1/alerta_prototype/tree/master)
+
 ## Licença
 
 Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE](./LICENSE) para mais detalhes.
